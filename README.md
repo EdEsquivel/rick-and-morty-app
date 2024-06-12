@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RickAndMortyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.1.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+=======
+# rick-and-morty-app
+App creada en Angular utilizando la API de Rick and Morty para viasualizar listas de personajes, ubicaciones y episodios.
+>>>>>>> 57a2dfa937c35f39698d3ee023afef4f3f38ff3f
